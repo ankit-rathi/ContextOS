@@ -1,83 +1,139 @@
-# 🧠 ContextOS – *My First Draft Context Document*
+# 🧠 ContextOS – *Unified Context Document (Second Draft)*
 
 ---
 
 ## 🟢 1) Identity & Core Beliefs
 
-**Work & Career**
+### **Priorities**
 
-* I believe work should be intellectually engaging, high-leverage, and system-driven
-* I optimize for long-term impact over short-term visibility
-* I avoid reactive, low-value execution work and busywork
-
-**Money & Investing**
-
-* My core investing philosophy: structured, data-driven (Quantvesting), process over outcome
-* Risk I am willing to take: calculated, asymmetric risk with margin of safety
-* What I will never compromise on: governance quality, capital discipline, and thesis clarity
-
-**Health**
-
-* My definition of good health: low inflammation, strong cardiovascular system, sustainable energy
-* Non-negotiables: sleep, Zone 2 activity, consistency over intensity
-* What I tend to ignore: consistency in execution during busy or mentally demanding periods
-
-**Learning & Growth**
-
-* I learn best through structured thinking, writing, and teaching
-* My unfair advantage: ability to simplify complex systems and think independently
-* Where I struggle: over-analysis, occasional delay in execution
+1. Health (Physical / Mental / Spiritual)
+2. Family / Relationships
+3. Wealth / Career
 
 ---
 
-## 🟡 2) Long-Term Goals (3–5 years)
+### **Work & Career**
 
-**Health**
+* Work should be intellectually engaging, high-leverage, and system-driven
+* Optimize for long-term impact over short-term visibility
+* Avoid reactive, low-value execution work and busywork
 
-* Target: ~16–18% body fat, ~78 kg
-* Biomarkers: CRP < 5, stable BP, improved vascular health
-* Capability: consistent endurance + functional strength
+---
 
-**Career**
+### **Money & Investing**
 
-* Role: move from execution → strategic influence in data/AI systems
-* Work: decision systems, AI governance, system design thinking
-* Positioning: recognized voice in decision intelligence / AI systems
+* Philosophy: structured, data-driven (Quantvesting), process over outcome
+* Risk: calculated, asymmetric with margin of safety
+* Non-negotiables: governance quality, capital discipline, thesis clarity
 
-**Wealth**
+---
 
-* Philosophy: disciplined, framework-based compounding
-* Goal: build concentrated, high-quality portfolio
-* Risk boundary: avoid permanent capital loss
+### **Health**
 
-**Intellectual / Creative**
+* Definition: low inflammation, strong cardiovascular system, sustainable energy
+* Non-negotiables: sleep, Zone 2 activity, consistency over intensity
+* Weakness: inconsistency during busy or mentally demanding periods
 
-* Be known for: clear thinking in decision systems
-* Direction: AI risks, governance, decision intelligence
+---
+
+### **Family & Relationships**
+
+* Relationships require **intentional time, presence, and emotional investment**
+* Optimize for **long-term trust, stability, and meaningful connection**
+* Role: not just to provide, but to be **available, supportive, and engaged**
+* Avoid:
+
+  * Being physically present but mentally absent
+  * Treating family as “leftover time”
+
+---
+
+### **Learning & Growth**
+
+* Learn best through structured thinking, writing, and teaching
+* Strength: simplifying complex systems, independent thinking
+* Weakness: over-analysis → delayed execution
+
+---
+
+## 🟡 2) Long-Term Goals (3–5 Years)
+
+### **Health**
+
+* ~16–18% body fat (~78 kg)
+* CRP < 5, stable BP, improved vascular health
+* Strong endurance + functional strength
+
+---
+
+### **Family**
+
+* Build strong, stable, and trusting relationships
+* Be emotionally available and dependable
+* Maintain consistent presence in important (small + big) moments
+* Create a calm, supportive home environment
+* Balance ambition with availability
+
+---
+
+### **Career**
+
+* Move from execution → strategic influence in data/AI
+* Focus: decision systems, AI governance, system design
+* Positioning: recognized voice in decision intelligence
+
+---
+
+### **Wealth**
+
+* Framework-based compounding (Quantvesting)
+* Concentrated, high-quality portfolio
+* Avoid permanent capital loss
+
+---
+
+### **Intellectual / Creative**
+
+* Known for clear thinking in decision systems
+* Focus: AI risks, governance, decision intelligence
 * Output: books, frameworks, structured content
 
 ---
 
 ## 🔵 3) Current State
 
-**Health**
+### **Health**
 
-* Weight ~83 kg, mild hypertension, elevated CRP
-* Energy: decent but inconsistent with lifestyle fluctuations
-* Issue: inflammation + consistency
+* ~86 kg, mild hypertension, on Telmisartan 40, elevated CRP
+* Energy: decent but inconsistent
+* Issue: inflammation + routine inconsistency
 
-**Career**
+---
+
+### **Family**
+
+* Fulfilling responsibilities and emotionally involved
+* Presence fluctuates due to work/cognitive load
+* Opportunity: improve **quality of attention and consistency**
+
+---
+
+### **Career**
 
 * Principal Data Engineer
-* Strengths: systems thinking, structured approach, clarity
-* Frictions: potential pull into execution vs strategic thinking
+* Strengths: systems thinking, clarity, structured approach
+* Friction: risk of getting pulled into execution over strategy
 
-**Wealth**
+---
+
+### **Wealth**
 
 * Strong framework (Quantvesting)
-* Risk: market noise, opportunity cost decisions
+* Risk: noise, opportunity cost decisions
 
-**Time & Energy**
+---
+
+### **Time & Energy**
 
 * High energy: mornings
 * Low energy: late evenings
@@ -87,141 +143,165 @@
 
 ## 🟣 4) Constraints & Weaknesses
 
-* Time constraints: work responsibilities + cognitive load
-* Energy limitations: impacted by sleep and routine inconsistency
-* Behavioral patterns:
+* Time: work + cognitive load
+* Energy: impacted by sleep inconsistency
+* Behavioral:
 
-  * Overthink before acting
-  * Delay execution when uncertain
+  * Overthinking before acting
+  * Delaying under uncertainty
 * Emotional triggers:
 
   * Fear of suboptimal decisions
-* Bad habits:
+* Habits:
 
-  * Inconsistency in routines during busy phases
+  * Routine inconsistency during busy phases
+* Family-specific:
+
+  * Work spillover reduces emotional availability
 
 ---
 
 ## 🔴 5) Decision Patterns
 
-**Where I make good decisions**
+### **Where I make good decisions**
 
 * Long-term investing
-* System design and structured thinking
-* When I have time to analyze
+* System design
+* When time is available to think
 
-**Why it works**
+**Why**
 
 * Framework-driven
 * Low emotional interference
 
 ---
 
-**Where I make poor decisions**
+### **Where I make poor decisions**
 
-* Short-term lifestyle choices (sleep, routine)
-* Over-analysis leading to delay
+* Short-term lifestyle (sleep, food, routine)
+* Over-analysis → delayed execution
+* Underinvestment in relationships during busy periods
 
-**Why I fail**
+**Why**
 
 * Lack of immediate feedback
 * Decision fatigue
+* No structured system for relationships
 
 ---
 
-**Biases**
+### **Biases**
 
 * Overconfidence in structured domains
 * Avoidance of ambiguity in execution
-* Tendency to delay under uncertainty
+* Delay under uncertainty
 
 ---
 
 ## ⚙️ 6) Personal Systems & Frameworks
 
-**Health System**
+### **Health System**
 
 * Works: Zone 2 walking, Surya Namaskar, consistency
-* Doesn’t work: intensity-driven or irregular routines
+* Fails: intensity spikes, irregular routines
 
-**Work System**
+---
 
-* Structured, system-based thinking
+### **Family System**
+
+* Works:
+
+  * Dedicated, distraction-free time
+  * Full presence (no phone, no work carryover)
+  * Listening > solving
+* Fails:
+
+  * Passive presence
+  * Treating family as default time
+
+---
+
+### **Work System**
+
+* Structured, system-driven thinking
 * Preference for clarity over speed
 
-**Investing System (Quantvesting)**
+---
 
-* Strong governance + business quality filters
+### **Investing System (Quantvesting)**
+
+* Governance + business quality filters
 * Valuation discipline
-* Thesis-driven investing
+* Thesis-driven decisions
 
 ---
 
 ## 📏 7) Personal Rules
 
-* No major decisions under fatigue
+* No major decisions under fatigue or in a rush
 * No investment without written thesis
 * Sleep > short-term productivity
 * Consistency > intensity
+* No work/phone during dedicated family time
+* Be mentally present, not just physically available
+* Do not carry work stress into family interactions
+* Small consistent actions > occasional big efforts
 
 ---
 
-## 🎯 8) Current Priorities (Next 90 days)
+## 🎯 8) Current Priorities (Next 90 Days)
 
 * Improve health markers (CRP, weight, BP)
-* Stabilize routines (sleep, activity)
+* Stabilize routines (sleep, movement)
+* Improve quality of presence with family
+* Protect time for strategic thinking in new role
 * Explore AI governance / decision systems deeply
-* Avoid overcommitment in new role
+* Avoid overcommitment
 
 ---
 
-## 🔁 9) Recent Learnings (initial placeholders)
+## 🔁 9) Recent Learnings
 
-* Systems thinking works when consistently applied
+* Systems work only with consistency
 * Overthinking reduces execution speed
-* Health consistency directly impacts decision quality
+* Health consistency → better decision quality
+* Presence matters more than time in relationships
+* Work spillover damages personal life quality
 
 ---
 
-# 🧠 What you should do next (important)
+# 🧠 How to Use This for Weekly Planning
 
 ---
 
-## 1) Edit this brutally
+## Every Sunday (or start of week)
 
-* Remove what feels wrong
-* Add what’s missing
-* Make it **yours**
+Open ChatGPT and paste:
 
 ---
 
-## 2) Use it immediately in ChatGPT
+### 🔥 Weekly Prompt
 
-Ask:
-
-> “Based on this context, what should I focus on this week?”
-
----
-
-## 3) Update weekly
-
-* Add real patterns
-* Correct assumptions
+> “Based on this context, design my week:
+>
+> * 3 key priorities
+> * Health actions
+> * Family/relationship focus
+> * Career focus
+> * What I should avoid
+>   Keep it realistic and aligned with my constraints and patterns.”
 
 ---
 
-# 🧨 Brutal truth
+## Daily Prompt
 
-Right now:
-👉 This is **80% accurate, 20% assumed**
-
-Only through usage it becomes:
-👉 **100% useful**
+> “Given my context and weekly priorities, what are the top 3 actions today?”
 
 ---
 
-# 🎯 Final insight
+# 🎯 Final Insight
 
-> Your ContextOS becomes powerful not when it is well-written, but when it is continuously refined through real decisions.
+> **This is now a decision system—not a document**
 
 ---
+
