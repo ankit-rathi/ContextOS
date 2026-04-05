@@ -1,4 +1,4 @@
-# 🧠 ContextOS – *Your First Draft Context Document*
+# 🧠 ContextOS – *My First Draft Context Document*
 
 ---
 
