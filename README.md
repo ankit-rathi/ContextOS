@@ -1,4 +1,4 @@
-# 🧠 ContextOS – *Unified Context Document (Second Draft)*
+# 🧠 ContextOS – *Unified Context Document (Third Draft)*
 
 ---
 
@@ -17,6 +17,7 @@
 * Work should be intellectually engaging, high-leverage, and system-driven
 * Optimize for long-term impact over short-term visibility
 * Avoid reactive, low-value execution work and busywork
+* **Optimize for people and environment quality, not just role or domain**
 
 ---
 
@@ -41,10 +42,11 @@
 * Relationships require **intentional time, presence, and emotional investment**
 * Optimize for **long-term trust, stability, and meaningful connection**
 * Role: not just to provide, but to be **available, supportive, and engaged**
-* Avoid:
 
-  * Being physically present but mentally absent
-  * Treating family as “leftover time”
+Avoid:
+
+* Being physically present but mentally absent
+* Treating family as “leftover time”
 
 ---
 
@@ -81,6 +83,7 @@
 * Move from execution → strategic influence in data/AI
 * Focus: decision systems, AI governance, system design
 * Positioning: recognized voice in decision intelligence
+* **Operate in high-quality environments with builder-type leaders**
 
 ---
 
@@ -123,6 +126,7 @@
 * Principal Data Engineer
 * Strengths: systems thinking, clarity, structured approach
 * Friction: risk of getting pulled into execution over strategy
+* **Environmental risk: potential exposure to perception-driven leadership**
 
 ---
 
@@ -145,19 +149,23 @@
 
 * Time: work + cognitive load
 * Energy: impacted by sleep inconsistency
-* Behavioral:
 
-  * Overthinking before acting
-  * Delaying under uncertainty
-* Emotional triggers:
+Behavioral:
 
-  * Fear of suboptimal decisions
-* Habits:
+* Overthinking before acting
+* Delaying under uncertainty
 
-  * Routine inconsistency during busy phases
-* Family-specific:
+Emotional triggers:
 
-  * Work spillover reduces emotional availability
+* Fear of suboptimal decisions
+
+Habits:
+
+* Routine inconsistency during busy phases
+
+Family-specific:
+
+* Work spillover reduces emotional availability
 
 ---
 
@@ -181,12 +189,14 @@
 * Short-term lifestyle (sleep, food, routine)
 * Over-analysis → delayed execution
 * Underinvestment in relationships during busy periods
+* **Underestimating the impact of environment on performance and growth**
 
 **Why**
 
 * Lack of immediate feedback
 * Decision fatigue
 * No structured system for relationships
+* Overfocus on self-optimization vs system selection
 
 ---
 
@@ -214,6 +224,7 @@
   * Dedicated, distraction-free time
   * Full presence (no phone, no work carryover)
   * Listening > solving
+
 * Fails:
 
   * Passive presence
@@ -236,7 +247,71 @@
 
 ---
 
-## 📏 7) Personal Rules
+## 🧭 7) Environment & People Selection (New – Critical Layer)
+
+### **Core Principle**
+
+> Environment compounds or destroys performance, growth, and decision quality.
+
+---
+
+### **Avoid (Political Operator Environments)**
+
+* Perception > reality
+* Questions discouraged
+* Blame shifting
+* Dual personality (public vs private inconsistency)
+* Confidence erosion disguised as feedback
+
+---
+
+### **Prefer (Builder Environments)**
+
+* Reality-first thinking
+* First-principles decision-making
+* Encouragement of curiosity and questions
+* Ownership and accountability
+* Consistent integrity
+
+---
+
+### **Manager Selection Rule**
+
+> Use “Political Operator vs Builder” framework before committing to teams.
+
+---
+
+### **Early Warning Signals**
+
+* “Perception is everything”
+* Discouraging questions
+* Avoiding accountability
+* Minimizing growth opportunities
+
+👉 If 2–3 signals appear → **limit exposure and evaluate exit**
+
+---
+
+### **Positive Signals**
+
+* Encourages “I don’t know, let’s figure it out”
+* Supports growth even if it leads to exit
+* Takes ownership under failure
+* Values clarity over optics
+
+---
+
+### **Personal Rule**
+
+* Do not stay long-term in environments where:
+
+  * honesty is penalized
+  * growth is constrained
+  * perception overrides reality
+
+---
+
+## 📏 8) Personal Rules
 
 * No major decisions under fatigue or in a rush
 * No investment without written thesis
@@ -246,10 +321,12 @@
 * Be mentally present, not just physically available
 * Do not carry work stress into family interactions
 * Small consistent actions > occasional big efforts
+* **Choose environment before optimizing performance**
+* **Do not trade long-term growth for short-term stability in poor environments**
 
 ---
 
-## 🎯 8) Current Priorities (Next 90 Days)
+## 🎯 9) Current Priorities (Next 90 Days)
 
 * Improve health markers (CRP, weight, BP)
 * Stabilize routines (sleep, movement)
@@ -257,16 +334,18 @@
 * Protect time for strategic thinking in new role
 * Explore AI governance / decision systems deeply
 * Avoid overcommitment
+* **Evaluate current work environment using builder vs operator framework**
 
 ---
 
-## 🔁 9) Recent Learnings
+## 🔁 10) Recent Learnings
 
 * Systems work only with consistency
 * Overthinking reduces execution speed
 * Health consistency → better decision quality
 * Presence matters more than time in relationships
 * Work spillover damages personal life quality
+* **Environment quality is a force multiplier (positive or negative)**
 
 ---
 
@@ -274,13 +353,7 @@
 
 ---
 
-## Every Sunday (or start of week)
-
-Open ChatGPT and paste:
-
----
-
-### 🔥 Weekly Prompt
+## Every Sunday
 
 > “Based on this context, design my week:
 >
@@ -301,7 +374,4 @@ Open ChatGPT and paste:
 
 # 🎯 Final Insight
 
-> **This is now a decision system—not a document**
-
----
-
+> **This is a decision system + environment selection system—not just a self-optimization document.**
