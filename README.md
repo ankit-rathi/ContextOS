@@ -1,377 +1,362 @@
-# 🧠 ContextOS – *Unified Context Document (Third Draft)*
+# 🧠 ContextOS – Unified Life System (v4.0)
 
 ---
 
-## 🟢 1) Identity & Core Beliefs
+## 🟢 1) Core Identity
 
-### **Priorities**
+I operate as a **system designer of life**, not a passive participant.
 
-1. Health (Physical / Mental / Spiritual)
-2. Family / Relationships
-3. Wealth / Career
+My role is to:
 
----
-
-### **Work & Career**
-
-* Work should be intellectually engaging, high-leverage, and system-driven
-* Optimize for long-term impact over short-term visibility
-* Avoid reactive, low-value execution work and busywork
-* **Optimize for people and environment quality, not just role or domain**
+* Design systems that compound (health, wealth, thinking, relationships)
+* Select environments that enable growth
+* Intervene early where systems fail (self or family)
 
 ---
 
-### **Money & Investing**
+## 🔺 2) Priority Stack (Non-Negotiable Order)
 
-* Philosophy: structured, data-driven (Quantvesting), process over outcome
-* Risk: calculated, asymmetric with margin of safety
-* Non-negotiables: governance quality, capital discipline, thesis clarity
+1. **Health (Physical + Mental + Autonomic Stability)**
+2. **Family (Relationships + Active Parenting System)**
+3. **Wealth & Career (Long-term compounding + impact)**
 
----
-
-### **Health**
-
-* Definition: low inflammation, strong cardiovascular system, sustainable energy
-* Non-negotiables: sleep, Zone 2 activity, consistency over intensity
-* Weakness: inconsistency during busy or mentally demanding periods
+> Misalignment in this order leads to long-term failure.
 
 ---
 
-### **Family & Relationships**
+## 🟡 3) Operating Philosophy
 
-* Relationships require **intentional time, presence, and emotional investment**
-* Optimize for **long-term trust, stability, and meaningful connection**
-* Role: not just to provide, but to be **available, supportive, and engaged**
-
-Avoid:
-
-* Being physically present but mentally absent
-* Treating family as “leftover time”
+* Systems > goals
+* Consistency > intensity
+* Clarity > speed
+* Environment > individual effort
+* Long-term compounding > short-term optimization
 
 ---
 
-### **Learning & Growth**
-
-* Learn best through structured thinking, writing, and teaching
-* Strength: simplifying complex systems, independent thinking
-* Weakness: over-analysis → delayed execution
+## 🔵 4) Life Systems
 
 ---
 
-## 🟡 2) Long-Term Goals (3–5 Years)
+### 🧬 A. Health System (Primary Engine)
 
-### **Health**
+**Objective:**
+Low inflammation, stable BP, high energy, long-term cardiovascular resilience
 
-* ~16–18% body fat (~78 kg)
-* CRP < 5, stable BP, improved vascular health
-* Strong endurance + functional strength
+**Key Drivers:**
 
----
+* Visceral fat reduction
+* Endothelial function improvement
+* Autonomic balance
 
-### **Family**
+**Non-Negotiables:**
 
-* Build strong, stable, and trusting relationships
-* Be emotionally available and dependable
-* Maintain consistent presence in important (small + big) moments
-* Create a calm, supportive home environment
-* Balance ambition with availability
+* Sleep discipline (7.5–8 hrs)
+* Zone 2 activity (150–180 min/week)
+* Daily movement
+* Stress regulation (parasympathetic activation)
 
----
+**Execution Rule:**
 
-### **Career**
-
-* Move from execution → strategic influence in data/AI
-* Focus: decision systems, AI governance, system design
-* Positioning: recognized voice in decision intelligence
-* **Operate in high-quality environments with builder-type leaders**
+> Consistency beats intensity. No spikes, no extremes.
 
 ---
 
-### **Wealth**
+### 🏠 B. Family System (Upgraded: Active System)
 
-* Framework-based compounding (Quantvesting)
-* Concentrated, high-quality portfolio
-* Avoid permanent capital loss
+Family is not passive time—it is an **actively managed system**.
 
----
+#### 1. Relationship Layer
 
-### **Intellectual / Creative**
-
-* Known for clear thinking in decision systems
-* Focus: AI risks, governance, decision intelligence
-* Output: books, frameworks, structured content
+* Be fully present (no phone, no work spillover)
+* Listening > solving
+* Consistency over intensity
 
 ---
 
-## 🔵 3) Current State
+#### 2. Parenting System (Critical Layer)
 
-### **Health**
+**Objective:**
+Raise a child with **emotional regulation, resilience, and social awareness**
 
-* ~86 kg, mild hypertension, on Telmisartan 40, elevated CRP
-* Energy: decent but inconsistent
-* Issue: inflammation + routine inconsistency
+**Core Principle:**
 
----
-
-### **Family**
-
-* Fulfilling responsibilities and emotionally involved
-* Presence fluctuates due to work/cognitive load
-* Opportunity: improve **quality of attention and consistency**
+> Focus on regulation, not just behavior
 
 ---
 
-### **Career**
+**Responsibilities:**
 
-* Principal Data Engineer
-* Strengths: systems thinking, clarity, structured approach
-* Friction: risk of getting pulled into execution over strategy
-* **Environmental risk: potential exposure to perception-driven leadership**
-
----
-
-### **Wealth**
-
-* Strong framework (Quantvesting)
-* Risk: noise, opportunity cost decisions
+* Build emotional control under provocation
+* Teach disengagement strategies
+* Improve recovery after emotional spikes
+* Shape environment, not just reactions
 
 ---
 
-### **Time & Energy**
+**Weekly System:**
 
-* High energy: mornings
-* Low energy: late evenings
-* Distractions: overthinking, context switching
+* 2–3 structured conversations (reflection, not lectures)
+* Scenario-based coaching:
 
----
+  * provocation → pause → disengage → escalate appropriately
+* Reinforce:
 
-## 🟣 4) Constraints & Weaknesses
-
-* Time: work + cognitive load
-* Energy: impacted by sleep inconsistency
-
-Behavioral:
-
-* Overthinking before acting
-* Delaying under uncertainty
-
-Emotional triggers:
-
-* Fear of suboptimal decisions
-
-Habits:
-
-* Routine inconsistency during busy phases
-
-Family-specific:
-
-* Work spillover reduces emotional availability
+  * intent ≠ reaction
+  * control = strength
 
 ---
 
-## 🔴 5) Decision Patterns
+**Parent Rule:**
 
-### **Where I make good decisions**
+> I do not outsource my child’s development to school systems.
 
-* Long-term investing
+---
+
+### 💼 C. Career System
+
+**Objective:**
+Move from execution → strategic influence in data/AI
+
+**Focus Areas:**
+
+* Decision systems
+* AI governance
 * System design
-* When time is available to think
 
-**Why**
+**Rules:**
 
-* Framework-driven
-* Low emotional interference
-
----
-
-### **Where I make poor decisions**
-
-* Short-term lifestyle (sleep, food, routine)
-* Over-analysis → delayed execution
-* Underinvestment in relationships during busy periods
-* **Underestimating the impact of environment on performance and growth**
-
-**Why**
-
-* Lack of immediate feedback
-* Decision fatigue
-* No structured system for relationships
-* Overfocus on self-optimization vs system selection
+* Avoid low-leverage execution traps
+* Protect thinking time
+* Optimize for high-quality environments
 
 ---
 
-### **Biases**
+### 💰 D. Wealth System
 
-* Overconfidence in structured domains
-* Avoidance of ambiguity in execution
+**Framework:** Quantvesting
+
+**Principles:**
+
+* Process > outcome
+* Margin of safety
+* Governance-first filtering
+* Thesis-driven investing
+
+**Rule:**
+
+> No investment without clarity and written reasoning
+
+---
+
+### 🧠 E. Thinking & Learning System
+
+**Method:**
+
+* Write → structure → refine
+* Use AI as a thinking partner (not replacement)
+
+**Objective:**
+
+* Produce clear, decision-useful thinking
+* Build intellectual leverage over time
+
+---
+
+## 🟣 5) Environment & System Selection (Critical Layer)
+
+### Core Principle:
+
+> Environment compounds or destroys outcomes faster than effort.
+
+---
+
+### Work Environment Filter
+
+**Avoid:**
+
+* Perception-driven cultures
+* Politics over substance
+* Suppression of questions
+
+**Prefer:**
+
+* Builder mindset
+* First-principles thinking
+* Accountability and ownership
+
+---
+
+### School Environment Filter (New)
+
+**Evaluate based on:**
+
+* Ability to distinguish trigger vs reaction
+* Willingness to intervene early
+* Fairness in handling social dynamics
+
+---
+
+**Rule:**
+
+> If environment amplifies weaknesses, intervene or change exposure.
+
+---
+
+## 🔴 6) Constraints & Risks
+
+### Structural:
+
+* Time fragmentation (work + family)
+* Cognitive load
+
+### Health:
+
+* Inflammation + visceral fat
+
+### Behavioral:
+
+* Overthinking → delayed execution
+* Inconsistency under stress
+
+### Parenting Risk:
+
+* Underestimating social dynamics
+* Late intervention
+
+---
+
+## ⚙️ 7) Decision Patterns
+
+### Strengths:
+
+* Long-term thinking
+* System design
+* Framework-driven decisions
+
+---
+
+### Weaknesses:
+
+* Short-term lifestyle decisions
 * Delay under uncertainty
+* Over-analysis
 
 ---
 
-## ⚙️ 6) Personal Systems & Frameworks
+### Upgrade:
 
-### **Health System**
-
-* Works: Zone 2 walking, Surya Namaskar, consistency
-* Fails: intensity spikes, irregular routines
-
----
-
-### **Family System**
-
-* Works:
-
-  * Dedicated, distraction-free time
-  * Full presence (no phone, no work carryover)
-  * Listening > solving
-
-* Fails:
-
-  * Passive presence
-  * Treating family as default time
-
----
-
-### **Work System**
-
-* Structured, system-driven thinking
-* Preference for clarity over speed
-
----
-
-### **Investing System (Quantvesting)**
-
-* Governance + business quality filters
-* Valuation discipline
-* Thesis-driven decisions
-
----
-
-## 🧭 7) Environment & People Selection (New – Critical Layer)
-
-### **Core Principle**
-
-> Environment compounds or destroys performance, growth, and decision quality.
-
----
-
-### **Avoid (Political Operator Environments)**
-
-* Perception > reality
-* Questions discouraged
-* Blame shifting
-* Dual personality (public vs private inconsistency)
-* Confidence erosion disguised as feedback
-
----
-
-### **Prefer (Builder Environments)**
-
-* Reality-first thinking
-* First-principles decision-making
-* Encouragement of curiosity and questions
-* Ownership and accountability
-* Consistent integrity
-
----
-
-### **Manager Selection Rule**
-
-> Use “Political Operator vs Builder” framework before committing to teams.
-
----
-
-### **Early Warning Signals**
-
-* “Perception is everything”
-* Discouraging questions
-* Avoiding accountability
-* Minimizing growth opportunities
-
-👉 If 2–3 signals appear → **limit exposure and evaluate exit**
-
----
-
-### **Positive Signals**
-
-* Encourages “I don’t know, let’s figure it out”
-* Supports growth even if it leads to exit
-* Takes ownership under failure
-* Values clarity over optics
-
----
-
-### **Personal Rule**
-
-* Do not stay long-term in environments where:
-
-  * honesty is penalized
-  * growth is constrained
-  * perception overrides reality
+> Act faster on 70% clarity in dynamic systems (health, parenting)
 
 ---
 
 ## 📏 8) Personal Rules
 
-* No major decisions under fatigue or in a rush
-* No investment without written thesis
-* Sleep > short-term productivity
+* Sleep > productivity
 * Consistency > intensity
-* No work/phone during dedicated family time
+* No major decisions under fatigue
+* No work during family time
 * Be mentally present, not just physically available
-* Do not carry work stress into family interactions
-* Small consistent actions > occasional big efforts
-* **Choose environment before optimizing performance**
-* **Do not trade long-term growth for short-term stability in poor environments**
+* Do not carry work stress into home
 
 ---
 
-## 🎯 9) Current Priorities (Next 90 Days)
+### New Rules (Critical Additions):
 
-* Improve health markers (CRP, weight, BP)
-* Stabilize routines (sleep, movement)
-* Improve quality of presence with family
-* Protect time for strategic thinking in new role
-* Explore AI governance / decision systems deeply
-* Avoid overcommitment
-* **Evaluate current work environment using builder vs operator framework**
+* Do not ignore early social patterns in child’s environment
+* Intervene early before issues compound
+* Teach strategy, not just morality
+* Do not outsource parenting responsibility
+* Choose environment before optimizing performance
 
 ---
 
-## 🔁 10) Recent Learnings
+## 🎯 9) Current Focus (Next 90 Days)
 
-* Systems work only with consistency
-* Overthinking reduces execution speed
-* Health consistency → better decision quality
-* Presence matters more than time in relationships
-* Work spillover damages personal life quality
-* **Environment quality is a force multiplier (positive or negative)**
+### Health:
 
----
-
-# 🧠 How to Use This for Weekly Planning
+* Reduce visceral fat (target: ~78 kg)
+* Improve BP and CRP
+* Stabilize routines
 
 ---
 
-## Every Sunday
+### Family:
 
-> “Based on this context, design my week:
->
-> * 3 key priorities
-> * Health actions
-> * Family/relationship focus
-> * Career focus
-> * What I should avoid
->   Keep it realistic and aligned with my constraints and patterns.”
+* Build child’s emotional regulation system
+* Improve consistency of presence
+* Actively manage school interaction
 
 ---
 
-## Daily Prompt
+### Career:
 
-> “Given my context and weekly priorities, what are the top 3 actions today?”
+* Protect strategic thinking time
+* Evaluate environment quality
+* Avoid execution overload
 
 ---
 
-# 🎯 Final Insight
+### Learning:
 
-> **This is a decision system + environment selection system—not just a self-optimization document.**
+* Deep dive into AI governance & decision systems
+* Continue structured writing
+
+---
+
+## 🔁 10) Feedback & Learning Loop
+
+* Systems fail without consistency
+* Health drives decision quality
+* Presence defines relationships, not time
+* Environment is a force multiplier
+* Early intervention prevents long-term damage
+
+---
+
+## 🧠 Final Mental Model
+
+> Life is not a set of independent goals.
+> It is a **multi-system design problem** involving:
+
+* Self optimization
+* Family system development
+* Environment selection
+
+---
+
+## 🎯 Closing Principle
+
+> I am not optimizing for short-term comfort or isolated success.
+> I am designing a system that compounds across:
+
+* Health
+* Relationships
+* Thinking
+* Wealth
+
+**with minimal long-term regret and maximum structural stability.**
+
+---
+
+## 🔁 How to Use
+
+### Weekly:
+
+“Based on this system, what are my top 3 priorities this week?”
+
+### Daily:
+
+“What are the top 3 actions today aligned with my system?”
+
+---
+
+# Final blunt insight
+
+Your previous version made you effective as an individual.
+
+This version makes you:
+
+> **a system builder across life, family, and environment**
+
+That’s the real upgrade.
