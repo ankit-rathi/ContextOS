@@ -1,246 +1,225 @@
-# 🧠 Your Weekly Execution Schedule (Mon–Sun)
+# 🧠 Weekly System Template
 
 ---
 
-# 🟢 MONDAY (Office Day – Low Flexibility)
+# 🔵 Weekdays (Execution + Stability Mode)
 
-### 🌅 Morning (5:45–7:15 am)
+## 🌅 Morning (Foundation Block — Non-Negotiable)
 
-* 5:45 – Wake up
-* 6:00 – 20–25 min **Zone 2 walk**
-* 6:30 – 6–8 **Surya Namaskar (slow)**
-* 6:45 – Get ready
-* 7:15 – Leave prep
+**Time: Wake → ~1–1.5 hrs**
 
----
+👉 Purpose: **Stabilize body + mind before the world interferes**
 
-### 🏢 Day (10–7 work, commute buffer)
+* 30–45 min **Zone 2 walk**
+* 5–10 min **slow breathing / calm start**
+* Light sunlight exposure
 
-* Focus: **Execution + clarity**
-* Avoid deep thinking work
+**Rule:**
+No phone / no work before this is done
 
 ---
 
-### 🌇 Evening (5:30–9:30 pm)
+## 🟡 Mid-Morning (Peak Cognitive Block)
 
-* 6:30 – Light unwind
-* 7:30 – Dinner
-* 8:00 – **20 min family (no phone)**
-* 9:30 – Sleep wind-down
+**Time: After breakfast → late morning**
 
----
+👉 Purpose: **Build long-term leverage**
 
-# 🟡 TUESDAY (Home Day – High Leverage)
+* 60–90 min **deep work**
 
-### 🌅 Morning (7:00–9:30 am)
+  * Decision systems / AI governance / writing
+* No meetings / no Slack
 
-* 7:00 – Wake up
-* 7:15 – 30–40 min **Zone 2 walk**
-* 8:00 – 8–10 Surya Namaskar
-* 8:30 – Breakfast
+**Output > activity**
 
 ---
 
-### 🧠 Deep Work Block (9:00–10:00 am)
+## 🟠 Midday (Flexible Physical / Work Block)
 
-👉 **Career thinking**
+**Time: ~12:30 pm (your gym slot)**
 
-* AI governance
-* Decision systems
-* Writing / structuring ideas
+👉 Purpose: **Strength + metabolic support**
 
----
+* Strength training (2–3x/week)
+  OR
+* Light movement / walk (on non-gym days)
 
-### 💻 Work (10–7)
+**Optional:**
 
-* Try to maintain **focused blocks**
-
----
-
-### 🌙 Evening
-
-* 7:30 – Dinner
-* 8:00 – **Family time (30 min)**
-* 9:30 – Wind down
+* Light pre-workout nutrition if needed
 
 ---
 
-# 🔵 WEDNESDAY (Office Day – Maintain, don’t optimize)
+## 🟢 Work Execution Block (Controlled, Not Reactive)
 
-👉 Same structure as Monday
+**Time: Afternoon**
 
-**Small addition:**
+👉 Purpose: **Handle execution without losing control**
 
-* Quick reflection at night (2 mins):
+* Meetings / collaboration
+* Limit context switching
+* Avoid getting pulled into unnecessary work
 
-  * “Where was I distracted today?”
+**Rule:**
 
----
-
-# 🟣 THURSDAY (Home Day – Second leverage day)
-
-### 🌅 Morning
-
-Same as Tuesday
+> Protect boundaries — don’t let this spill into deep work time
 
 ---
 
-### 🧠 Deep Work Block (9:00–10:00 am)
+## 🔴 Evening (Parenting + Relationship Block — Critical)
 
-👉 Continue:
+### 1. Parenting System (10–15 min)
 
-* AI governance exploration
-* Write 1 small idea / note
+👉 Structured, intentional
 
----
+* Ask:
 
-### Optional (Evening)
+  * What happened today?
+  * What triggered you?
+* Coach:
 
-* Light strength training (20–25 min)
+  * Pause → disengage → escalate
 
----
-
-### 🌙 Evening
-
-* 30 min **family presence**
+**No lectures. Build thinking.**
 
 ---
 
-# 🔴 FRIDAY (Office Day – Low Energy Risk)
+### 2. Family Presence (20–30 min)
 
-👉 Same as Monday, but:
+👉 Fully present time
 
-### Adjustment:
-
-* No ambition
-* Focus: **closing loops, not starting new work**
-
----
-
-### Evening
-
-* Slightly relaxed family time
-* Early wind-down
+* No phone
+* No work
+* Listening mode
 
 ---
 
-# 🟠 SATURDAY (Recovery + Flex Day)
+## ⚫ Night (Recovery Block)
 
-### 🌅 Morning
+👉 Purpose: **Enable next day performance**
 
-* 40–45 min **Zone 2 walk**
-* 8–10 Surya Namaskar
-
----
-
-### Midday
-
-* Light personal/admin work
+* Light dinner
+* No stimulating work
+* Wind-down routine
+* Sleep on time
 
 ---
 
-### 🧠 Optional (30–45 min)
+# 🟣 Weekend Template (Recovery + System Strengthening)
 
-* Reflect or think:
+Weekends are not for random relaxation—they are for:
 
-  * What worked this week?
-
----
-
-### ❤️ Family
-
-* Longer, relaxed time
-* Outing / shared activity
+> **Recovery + deeper system investment**
 
 ---
 
-# 🟤 SUNDAY (Reset + Planning Day)
+## 🌅 Morning (Same Anchor — Don’t Break This)
+
+* Zone 2 walk
+* Breathing
+* Slow start
+
+**Consistency matters more than duration**
 
 ---
 
-### 🌅 Morning
+## 🟡 Late Morning (Flexible Block)
 
-* Light walk or mobility
+Choose ONE:
 
----
+* Strength training
+* Family outing
+* Personal thinking / writing
 
-### 🧠 Weekly Review (30–40 min)
-
-Use ChatGPT:
-
-Ask:
-
-* What patterns do you see?
-* Where was I inconsistent?
-* What should I change next week?
+👉 Don’t overpack
 
 ---
 
-### 📋 Weekly Planning (15–20 min)
+## 🟢 Midday (Open / Social / Family Time)
 
-* Set:
-
-  * 3 priorities
-  * Health focus
-  * Family intent
+* Family activities
+* Social connection
+* Relaxed presence
 
 ---
 
-### ❤️ Family
+## 🔴 Parenting Deepening (1–2 sessions/week)
 
-* High-quality time
-* No work spillover
+👉 Slightly longer than weekday
 
----
+* Role-play situations:
 
-# ⚙️ Weekly Summary (Your Real Targets)
+  * “What if someone provokes you?”
+* Practice responses:
 
----
+  * Walk away
+  * Neutral replies
+* Reinforce:
 
-## Health
-
-* 5–6 walks
-* 4–5 Surya Namaskar days
-
----
-
-## Family
-
-* Daily 20–30 min presence
-* 1–2 longer interactions
+  * Control = strength
 
 ---
 
-## Career
+## 🔵 Reflection Block (30–45 min, once/week)
 
-* 2–3 deep thinking sessions
+👉 This is your unfair advantage
 
----
+* Review:
 
-# ⚠️ Reality Check
-
-This plan is:
-
-* Not aggressive
-* Not “optimized”
-  👉 It is **sustainable**
+  * Health (weight, BP, energy)
+  * Child behavior patterns
+  * Work direction
+* Adjust next week
 
 ---
 
-# 🧠 Most Important Rule
+## ⚫ Weekend Rule
 
-> **On busy days: reduce intensity, not consistency**
+* No complete structure collapse
+* No “all or nothing” mindset
+* Maintain **minimum viable consistency**
+
+---
+
+# ⚙️ Weekly Rhythm (Simple View)
+
+* **Daily:** Health + Parenting + Presence
+* **2–3x/week:** Strength training
+* **1x/week:** Reflection + planning
+* **Continuous:** Protect environment + attention
 
 ---
 
-# 🧭 Final Insight
+# 🚫 Common Failure Modes (Avoid)
 
-You don’t need:
-
-* More time
-* More discipline
-
-👉 You need:
-**predictable structure + low friction execution**
+* Skipping morning anchor → whole day reactive
+* Overloading weekends → burnout cycle
+* Passive parenting → problems compound
+* Letting work leak into evenings
 
 ---
+
+# 🧠 One-Line Operating System
+
+> **Stabilize body → build leverage → guide child → protect relationships → repeat**
+
+---
+
+# Final blunt truth
+
+This system is not hard.
+
+What’s hard is:
+
+> **Doing it when you don’t feel like it**
+
+If you maintain **80% consistency**, your:
+
+* BP improves
+* Weight drops
+* Child stabilizes
+* Career compounds
+
+If you don’t:
+
+* You’ll stay “busy” but stuck
